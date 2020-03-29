@@ -1,3 +1,3 @@
-## Personal Projects
+## Stochastic Optimization Model
 
-A few side projects that I've worked on
+Manages production and storage for a combined wind-solar virtual powerplant with largescale battery storage on an hour-by-hour basis
