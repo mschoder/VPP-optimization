@@ -9,7 +9,7 @@ chardet==3.0.4
 chart-studio==1.0.0
 Click==7.0
 conda==4.6.8
-cryptography==2.4.2
+cryptography==3.2
 cycler==0.10.0
 dash==1.1.0
 dash-core-components==1.1.0
